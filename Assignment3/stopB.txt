@@ -1,0 +1,38 @@
+passengengers entering
+moB,ch1B,ch2B,moB,ch1B,ch2B,moB,ch1B,ch2B,
+passengengers Leaving
+LA,
+************ the stopB*****************
+the seat:A1the passengerch1B
+the seat:A2the passengerch1B
+the seat:A3the passengerch1B
+the seat:A4the passengerch2B
+the seat:A5the passengerMA
+the seat:A6the passengerMA
+the seat:A7the passengerMA
+the seat:A8the passengerMA
+the seat:B1the passengerch2B
+the seat:B2the passengerch2B
+the seat:B3the passengerempty
+the seat:B4the passengerempty
+the seat:B5the passengerMA
+the seat:B6the passengerempty
+the seat:B7the passengerempty
+the seat:B8the passengerempty
+the seat:C1the passengermoB
+the seat:C2the passengerLA
+the seat:C3the passengerLA
+the seat:C4the passengermoB
+the seat:C5the passengerempty
+the seat:C6the passengerempty
+the seat:C7the passengerempty
+the seat:C8the passengerempty
+the seat:D1the passengermoB
+the seat:D2the passengerempty
+the seat:D3the passengerempty
+the seat:D4the passengerempty
+the seat:D5the passengerempty
+the seat:D6the passengerempty
+the seat:D7the passengerempty
+the seat:D8the passengerempty
+
